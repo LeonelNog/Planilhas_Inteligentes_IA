@@ -1,4 +1,4 @@
-# SmartFinance-AI
+# Planilhas Inteligentes-IA
 
 # Projeto: Como Organizar Sua Vida Financeira com Planilhas Inteligentes e Inteligência Artificial  
 
